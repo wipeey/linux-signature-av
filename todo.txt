@@ -1,0 +1,6 @@
+Use Boyer-Moore algorithm to match the signature with known ones
+DAT File structure for signatures pattern matching
+Web server to store dat files with latest version updates etc.
+Download dat file if not found or bad signature
+Check every X minutes if the dat file has the right signature
+Check for updates every day
